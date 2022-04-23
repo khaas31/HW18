@@ -14,12 +14,12 @@ body {
 
 #featuredProduct {
   grid-area: 1 / 1 / 3 / 2;
-  background-image: url("/images/furniture1@2x.png");
+  background-image: url("../images/furniture1@2x.png");
 }
 
 #secondaryProduct {
   grid-area: 1 / 2 / 2 / 3;
-  background-image: url("/images/furniture2@2x.png");
+  background-image: url("../images/furniture2@2x.png");
 }
 
 #CTA {

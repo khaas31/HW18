@@ -24,7 +24,7 @@ body {
 
 #CTA {
   grid-area: 2 / 2 / 3 / 3;
-  background-image: url("/images/woodbg@2x.png");
+  background-image: url("https://khaas31.github.io/HW18/images/woodbg@2x.png");
   justify-content: space-around;
   cursor: pointer;
 }
